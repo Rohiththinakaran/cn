@@ -1,2 +1,2 @@
 #iclude<iostream.h>
-void main()
+int main()
